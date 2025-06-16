@@ -1,5 +1,0 @@
-git clone https://github.com/krates98/tarotcardapi
-git clone https://github.com/tinyzqh/IELTS_100_Sentence
-mkdir data
-mv tarotcardapi/tarot.json data/
-mv IELTS_100_Sentence/sentences.json data/
