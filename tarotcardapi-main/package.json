@@ -1,7 +1,7 @@
 {
-  "name": "tarotapi",
+  "name": "Tarotivate_resource",
   "version": "1.0.1",
-  "description": "A comprehensive Tarot card API built with Node.js, providing developers with easy access to a vast collection of Tarot card meanings, interpretations, and symbolism. This API allows users to retrieve Tarot card details, including card images, descriptions, upright and reversed meanings, and associated keywords. Harness the power of Tarot to enhance your applications, websites, or personal projects with this intuitive and versatile API.",
+  "description": "A comprehensive API for Tarot cards and IELTS sentences built with Node.js, providing developers with easy access to diverse resources.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -9,9 +9,12 @@
   },
   "keywords": [
     "tarotcard",
-    "tarot"
+    "tarot",
+    "ielts",
+    "language-learning",
+    "api"
   ],
-  "author": "Kushagra Srivastava",
+  "author": "Hailie Hu",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
