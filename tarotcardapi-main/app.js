@@ -7,7 +7,7 @@ const path = require('path');
 const fs = require('fs');
 
 // 加载 sentences.json
-const sentences = require('./sentences.json');
+const sentences = require('./IELTS_100_Sentence-main/sentences.json');
 
 dotenv.config();
 const app = express();
