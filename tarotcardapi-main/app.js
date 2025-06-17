@@ -8,9 +8,15 @@ dotenv.config();
 const app = express();
 const port = process.env.PORT || 3000; // Use a default port if PORT environment variable is not defined
 
+// Health check route
+app.get('/', (req, res) => {
+  res.send('Tarotivate Resource API is running');
+});
+
 app.use(express.json());
 
-app.use("/tarotdeck", express.static("images"));
+app.use("/tarotdeck", express.static(path.join(__dirname, 'images')));
+app.use('/audio', express.static(path.join(__dirname, 'IELTS_100_Sentence-main')));
 
 // Mount the cardRoutes router
 app.use("/cards", cardRoutes);
@@ -18,8 +24,6 @@ app.use("/cards", cardRoutes);
 // Mount the ieltsRoutes router under /api
 app.use("/api", ieltsRoutes);
 
-// Add static file serving for audio
-app.use('/audio', express.static('./IELTS_100_Sentence-main'));
 
 // Handle errors using the errorHandler middleware
 app.use(errorHandler);
