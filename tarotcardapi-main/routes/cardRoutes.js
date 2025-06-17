@@ -483,10 +483,5 @@ router.get("/onecard", (req, res) => {
   res.json(randomCard);
 });
 
-router.get("/tarot", (req, res) => {
-  const randomIndex = Math.floor(Math.random() * tarotCards.length);
-  const randomCard = tarotCards[randomIndex];
-  res.json(randomCard);
-});
 
 module.exports = router;
