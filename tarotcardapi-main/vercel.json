@@ -5,5 +5,11 @@
       "src": "tarotcardapi-main/app.js",
       "use": "@vercel/node"
     }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "tarotcardapi-main/app.js"
+    }
   ]
 }
