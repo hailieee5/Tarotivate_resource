@@ -19,7 +19,7 @@ app.use("/cards", cardRoutes);
 app.use("/api", ieltsRoutes);
 
 // Add static file serving for audio
-app.use('/audio', express.static('../IELTS_100_Sentence-main'));
+app.use('/audio', express.static('./IELTS_100_Sentence-main'));
 
 // Handle errors using the errorHandler middleware
 app.use(errorHandler);
