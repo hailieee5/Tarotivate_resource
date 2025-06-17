@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "tarotcardapi-main/app.js",
+      "use": "@vercel/node"
+    }
+  ]
+}
