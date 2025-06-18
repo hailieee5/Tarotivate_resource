@@ -1,626 +1,626 @@
 [
   {
     "name": "The Fool",
-    "description"::
+    "description":
       "The 'The Fool' card suggests a fresh start in your IELTS preparation, encouraging you to embrace new learning opportunities with an open mind. It signifies curiosity and the courage to explore unfamiliar topics, which can lead to significant progress.",
-    "translation"::
+    "translation":
       "‘愚者’卡片暗示你在雅思准备中开启新的起点，鼓励你以开放的心态拥抱新的学习机会。这象征着好奇心和勇气，探索陌生主题可带来显著进步。",
-    "image":: "/tarotdeck/thefool.jpeg",
+    "image": "/tarotdeck/thefool.jpeg",
   },
   {
     "name": "The Magician",
-    "description"::
+    "description":
       "The 'The Magician' card indicates you have the skills and resources to excel in your IELTS studies. It encourages you to use your creativity and intellect to master difficult sections, turning challenges into opportunities for growth.",
-    "translation"::
+    "translation":
       "‘魔术师’卡片表明你拥有在雅思学习中脱颖而出的技能和资源。它鼓励你运用创造力和智慧，掌握难点，将挑战转化为成长机会。",
-    "image":: "/tarotdeck/themagician.jpeg",
+    "image": "/tarotdeck/themagician.jpeg",
   },
   {
     "name": "The High Priestess",
-    "description"::
+    "description":
       "The 'The High Priestess' suggests trusting your intuition in IELTS preparation, especially when facing complex grammar or vocabulary. It advises exploring hidden insights through practice to improve your understanding.",
-    "translation"::
+    "translation":
       "‘女祭司’卡片建议你在雅思准备中信任直觉，特别是在面对复杂语法或词汇时。通过练习探索隐藏的见解可提升理解力。",
-    "image":: "/tarotdeck/thehighpriestess.jpeg",
+    "image": "/tarotdeck/thehighpriestess.jpeg",
   },
   {
     "name": "The Empress",
-    "description"::
+    "description":
       "The 'The Empress' card symbolizes nurturing your IELTS skills with patience and care. It suggests that consistent effort and a positive attitude will lead to abundant progress in your language abilities.",
-    "translation"::
+    "translation":
       "‘女皇’卡片象征着以耐心和关怀培养你的雅思技能。持续努力和积极态度将带来语言能力的丰富进步。",
-    "image":: "/tarotdeck/theempress.jpeg",
+    "image": "/tarotdeck/theempress.jpeg",
   },
   {
     "name": "The Emperor",
-    "description"::
+    "description":
       "The 'The Emperor' card encourages a structured approach to your IELTS studies, setting clear goals and maintaining discipline to achieve high scores in reading and writing.",
-    "translation"::
+    "translation":
       "‘皇帝’卡片鼓励你对雅思学习采取结构化方法，设定明确目标并保持纪律，以在阅读和写作中取得高分。",
-    "image":: "/tarotdeck/theemperor.jpeg",
+    "image": "/tarotdeck/theemperor.jpeg",
   },
   {
     "name": "The Hierophant",
-    "description"::
+    "description":
       "The 'The Hierophant' advises seeking guidance from teachers or study groups for your IELTS preparation, following proven methods to improve your speaking and listening skills.",
-    "translation"::
+    "translation":
       "‘教皇’卡片建议为雅思准备寻求教师或学习小组的指导，遵循已被验证的方法提升口语和听力技能。",
-    "image":: "/tarotdeck/thehierophant.jpeg",
+    "image": "/tarotdeck/thehierophant.jpeg",
   },
   {
     "name": "The Lovers",
-    "description"::
+    "description":
       "The 'The Lovers' card suggests aligning your IELTS goals with your personal values, choosing study techniques that resonate with you for better motivation and results.",
-    "translation"::
+    "translation":
       "‘恋人’卡片建议将你的雅思目标与个人价值观保持一致，选择与你产生共鸣的学习技巧，以获得更好的动力和成果。",
-    "image":: "/tarotdeck/TheLovers.jpg",
+    "image": "/tarotdeck/TheLovers.jpg",
   },
   {
     "name": "The Chariot",
-    "description"::
+    "description":
       "The 'The Chariot' card signifies determination in your IELTS journey, urging you to stay focused and overcome procrastination to succeed in the exam.",
-    "translation"::
+    "translation":
       "‘战车’卡片象征着你在雅思之旅中的决心，敦促你保持专注，克服拖延以在考试中成功。",
-    "image":: "/tarotdeck/thechariot.jpeg",
+    "image": "/tarotdeck/thechariot.jpeg",
   },
   {
     "name": "Strength",
-    "description"::
+    "description":
       "The 'Strength' card encourages resilience in facing IELTS challenges, using patience and inner courage to improve your weak areas like pronunciation or essay writing.",
-    "translation"::
+    "translation":
       "‘力量’卡片鼓励你在面对雅思挑战时展现韧性，运用耐心和内在勇气改进发音或作文等薄弱环节。",
-    "image":: "/tarotdeck/thestrength.jpeg",
+    "image": "/tarotdeck/thestrength.jpeg",
   },
   {
     "name": "The Hermit",
-    "description"::
+    "description":
       "The 'The Hermit' suggests taking time for self-study in your IELTS preparation, reflecting on past mistakes to refine your strategies for better performance.",
-    "translation"::
+    "translation":
       "‘隐士’卡片建议为雅思准备留出自学时间，反思过去的错误以优化策略，提升表现。",
-    "image":: "/tarotdeck/thehermit.jpeg",
+    "image": "/tarotdeck/thehermit.jpeg",
   },
   {
     "name": "Wheel of Fortune",
-    "description"::
+    "description":
       "The 'Wheel of Fortune' indicates that your IELTS progress may fluctuate, advising you to adapt to changes and seize unexpected learning opportunities.",
-    "translation"::
+    "translation":
       "‘命运之轮’卡片表明你的雅思进步可能有起伏，建议你适应变化，抓住意外的学习机会。",
-    "image":: "/tarotdeck/wheeloffortune.jpeg",
+    "image": "/tarotdeck/wheeloffortune.jpeg",
   },
   {
     "name": "Justice",
-    "description"::
+    "description":
       "The 'Justice' card calls for fairness in your IELTS preparation, balancing study time across all sections to ensure a well-rounded score.",
-    "translation"::
+    "translation":
       "‘正义’卡片呼吁在雅思准备中保持公平，平衡各部分的学习时间以确保全面得分。",
-    "image":: "/tarotdeck/justice.jpeg",
+    "image": "/tarotdeck/justice.jpeg",
   },
   {
     "name": "The Hanged Man",
-    "description"::
+    "description":
       "The 'The Hanged Man' suggests pausing your IELTS routine to gain new perspectives, which can help you overcome learning plateaus.",
-    "translation"::
+    "translation":
       "‘倒吊人’卡片建议暂停雅思日常学习以获得新视角，有助于克服学习平台期。",
-    "image":: "/tarotdeck/thehangedman.jpeg",
+    "image": "/tarotdeck/thehangedman.jpeg",
   },
   {
     "name": "Death",
-    "description"::
+    "description":
       "The 'Death' card signifies a transformation in your IELTS approach, letting go of ineffective methods to embrace innovative study techniques.",
-    "translation"::
+    "translation":
       "‘死亡’卡片象征着雅思方法的一次转变，放弃无效方式，接受创新学习技巧。",
-    "image":: "/tarotdeck/death.jpeg",
+    "image": "/tarotdeck/death.jpeg",
   },
   {
     "name": "Temperance",
-    "description"::
+    "description":
       "The 'Temperance' card advises a balanced IELTS study plan, combining practice and rest to maintain long-term progress.",
-    "translation"::
+    "translation":
       "‘节制’卡片建议制定平衡的雅思学习计划，结合练习和休息以保持长期进步。",
-    "image":: "/tarotdeck/temperance.jpeg",
+    "image": "/tarotdeck/temperance.jpeg",
   },
   {
     "name": "The Devil",
-    "description"::
+    "description":
       "The 'The Devil' warns against distractions in your IELTS preparation, urging you to break free from procrastination for better focus.",
-    "translation"::
+    "translation":
       "‘恶魔’卡片警告雅思准备中的分心，敦促你摆脱拖延以获得更好的专注力。",
-    "image":: "/tarotdeck/thedevil.jpeg",
+    "image": "/tarotdeck/thedevil.jpeg",
   },
   {
     "name": "The Tower",
-    "description"::
+    "description":
       "The 'The Tower' indicates sudden challenges in your IELTS studies, suggesting quick adaptation to improve your resilience.",
-    "translation"::
+    "translation":
       "‘塔’卡片表明雅思学习中可能出现突发挑战，建议快速适应以增强韧性。",
-    "image":: "/tarotdeck/thetower.jpeg",
+    "image": "/tarotdeck/thetower.jpeg",
   },
   {
     "name": "The Star",
-    "description"::
+    "description":
       "The 'The Star' offers hope for your IELTS journey, encouraging persistence to achieve your target score with confidence.",
-    "translation"::
+    "translation":
       "‘星星’卡片为你的雅思之旅带来希望，鼓励坚持以自信达到目标分数。",
-    "image":: "/tarotdeck/thestar.jpeg",
+    "image": "/tarotdeck/thestar.jpeg",
   },
   {
     "name": "The Moon",
-    "description"::
+    "description":
       "The 'The Moon' suggests trusting your intuition in IELTS, especially when unclear about complex passages or questions.",
-    "translation"::
+    "translation":
       "‘月亮’卡片建议在雅思中信任直觉，特别是在不明白复杂段落或问题时。",
-    "image":: "/tarotdeck/themoon.jpeg",
+    "image": "/tarotdeck/themoon.jpeg",
   },
   {
     "name": "The Sun",
-    "description"::
+    "description":
       "The 'The Sun' predicts success in your IELTS efforts, rewarding your hard work with a high score and clear understanding.",
-    "translation"::
+    "translation":
       "‘太阳’卡片预示雅思努力的成功，回报你的辛勤工作以高分和清晰理解。",
-    "image":: "/tarotdeck/thesun.jpeg",
+    "image": "/tarotdeck/thesun.jpeg",
   },
   {
     "name": "Judgement",
-    "description"::
+    "description":
       "The 'Judgement' card calls for self-assessment in your IELTS preparation, using past feedback to enhance future performance.",
-    "translation"::
+    "translation":
       "‘审判’卡片呼吁对雅思准备进行自我评估，利用过去的反馈提升未来表现。",
-    "image":: "/tarotdeck/judgement.jpeg",
+    "image": "/tarotdeck/judgement.jpeg",
   },
   {
     "name": "The World",
-    "description"::
+    "description":
       "The 'The World' signifies completing your IELTS goals, celebrating mastery of all skills after dedicated study.",
-    "translation"::
+    "translation":
       "‘世界’卡片象征着完成雅思目标，在专注学习后庆祝所有技能的掌握。",
-    "image":: "/tarotdeck/theworld.jpeg",
+    "image": "/tarotdeck/theworld.jpeg",
   },
   {
     "name": "Ace of Cups",
-    "description"::
+    "description":
       "The 'Ace of Cups' suggests a new emotional connection to IELTS, inspiring you to enjoy learning and improve fluency.",
-    "translation"::
+    "translation":
       "‘圣杯Ace’卡片建议与雅思建立新的情感联系，激发你享受学习并提升流利度。",
-    "image":: "/tarotdeck/aceofcups.jpeg",
+    "image": "/tarotdeck/aceofcups.jpeg",
   },
   {
     "name": "Two of Cups",
-    "description"::
+    "description":
       "The 'Two of Cups' encourages collaboration in IELTS, partnering with peers to enhance your speaking practice.",
-    "translation"::
+    "translation":
       "‘圣杯二’卡片鼓励雅思中的合作，与同伴结对提升口语练习。",
-    "image":: "/tarotdeck/twoofcups.jpeg",
+    "image": "/tarotdeck/twoofcups.jpeg",
   },
   {
     "name": "Three of Cups",
-    "description"::
+    "description":
       "The 'Three of Cups' suggests celebrating IELTS milestones with friends, boosting motivation through shared success.",
-    "translation"::
+    "translation":
       "‘圣杯三’卡片建议与朋友庆祝雅思里程碑，通过共享成功提升动力。",
-    "image":: "/tarotdeck/threeofcups.jpeg",
+    "image": "/tarotdeck/threeofcups.jpeg",
   },
   {
     "name": "Four of Cups",
-    "description"::
+    "description":
       "The 'Four of Cups' advises reevaluating your IELTS routine if it feels unengaging, seeking new study methods.",
-    "translation"::
+    "translation":
       "‘圣杯四’卡片建议如果雅思 routine 感觉无趣，重新评估并寻找新方法。",
-    "image":: "/tarotdeck/fourofcups.jpeg",
+    "image": "/tarotdeck/fourofcups.jpeg",
   },
   {
     "name": "Five of Cups",
-    "description"::
+    "description":
       "The 'Five of Cups' suggests learning from IELTS setbacks, focusing on what can still be improved rather than past failures.",
-    "translation"::
+    "translation":
       "‘圣杯五’卡片建议从雅思挫折中学习，关注可改进之处而非过去的失败。",
-    "image":: "/tarotdeck/fiveofcups.jpeg",
+    "image": "/tarotdeck/fiveofcups.jpeg",
   },
   {
     "name": "Six of Cups",
-    "description"::
+    "description":
       "The 'Six of Cups' encourages revisiting basic IELTS skills to build a stronger foundation for advanced learning.",
-    "translation"::
+    "translation":
       "‘圣杯六’卡片鼓励回顾基础雅思技能，为高级学习奠定更坚实基础。",
-    "image":: "/tarotdeck/sixofcups.jpeg",
+    "image": "/tarotdeck/sixofcups.jpeg",
   },
   {
     "name": "Seven of Cups",
-    "description"::
+    "description":
       "The 'Seven of Cups' warns against overwhelming IELTS options, advising focus on a clear study plan.",
-    "translation"::
+    "translation":
       "‘圣杯七’卡片警告雅思选择过多，建议专注于清晰的学习计划。",
-    "image":: "/tarotdeck/sevenofcups.jpeg",
+    "image": "/tarotdeck/sevenofcups.jpeg",
   },
   {
     "name": "Eight of Cups",
-    "description"::
+    "description":
       "The 'Eight of Cups' suggests moving on from ineffective IELTS strategies to find more suitable ones.",
-    "translation"::
+    "translation":
       "‘圣杯八’卡片建议放弃无效的雅思策略，寻找更合适的替代方案。",
-    "image":: "/tarotdeck/eightofcups.jpeg",
+    "image": "/tarotdeck/eightofcups.jpeg",
   },
   {
     "name": "Nine of Cups",
-    "description"::
+    "description":
       "The 'Nine of Cups' predicts fulfillment in IELTS, achieving your desired score through dedicated effort.",
-    "translation"::
+    "translation":
       "‘圣杯九’卡片预示雅思中的满足感，通过专注努力达到理想分数。",
-    "image":: "/tarotdeck/nineofcups.jpeg",
+    "image": "/tarotdeck/nineofcups.jpeg",
   },
   {
     "name": "Ten of Cups",
-    "description"::
+    "description":
       "The 'Ten of Cups' suggests harmony in your IELTS journey, enjoying the process and family support.",
-    "translation"::
+    "translation":
       "‘圣杯十’卡片建议雅思之旅中的和谐，享受过程并获得家庭支持。",
-    "image":: "/tarotdeck/tenofcups.jpeg",
+    "image": "/tarotdeck/tenofcups.jpeg",
   },
   {
     "name": "Page of Cups",
-    "description"::
+    "description":
       "The 'Page of Cups' encourages a playful approach to IELTS, using creativity to enhance vocabulary learning.",
-    "translation"::
+    "translation":
       "‘圣杯侍从’卡片鼓励以趣味方式学习雅思，利用创造力增强词汇积累。",
-    "image":: "/tarotdeck/pageofcups.jpeg",
+    "image": "/tarotdeck/pageofcups.jpeg",
   },
   {
     "name": "Knight of Cups",
-    "description"::
+    "description":
       "The 'Knight of Cups' suggests pursuing IELTS with passion, letting intuition guide your study schedule.",
-    "translation"::
+    "translation":
       "‘圣杯骑士’卡片建议以热情追求雅思，让直觉引导你的学习计划。",
-    "image":: "/tarotdeck/knightofcups.jpeg",
+    "image": "/tarotdeck/knightofcups.jpeg",
   },
   {
     "name": "Queen of Cups",
-    "description"::
+    "description":
       "The 'Queen of Cups' advises emotional engagement in IELTS, connecting with the material for deeper understanding.",
-    "translation"::
+    "translation":
       "‘圣杯女王’卡片建议在雅思中情感投入，与材料建立联系以获得更深理解。",
-    "image":: "/tarotdeck/queenofcups.jpeg",
+    "image": "/tarotdeck/queenofcups.jpeg",
   },
   {
     "name": "King of Cups",
-    "description"::
+    "description":
       "The 'King of Cups' encourages emotional balance in IELTS, managing stress for consistent performance.",
-    "translation"::
+    "translation":
       "‘圣杯国王’卡片鼓励雅思中的情感平衡，管理压力以保持一致表现。",
-    "image":: "/tarotdeck/kingofcups.jpeg",
+    "image": "/tarotdeck/kingofcups.jpeg",
   },
   {
     "name": "Ace of Pentacles",
-    "description"::
+    "description":
       "The 'Ace of Pentacles' signifies a new foundation for IELTS, offering practical resources for success.",
-    "translation"::
+    "translation":
       "‘Pentacles Ace’卡片象征着雅思的新基础，提供实用资源以获得成功。",
-    "image":: "/tarotdeck/aceofpentacles.jpeg",
+    "image": "/tarotdeck/aceofpentacles.jpeg",
   },
   {
     "name": "Two of Pentacles",
-    "description"::
+    "description":
       "The 'Two of Pentacles' suggests balancing IELTS with other commitments, adapting to a flexible schedule.",
-    "translation"::
+    "translation":
       "‘Pentacles 二’卡片建议平衡雅思与其他承诺，适应灵活时间表。",
-    "image":: "/tarotdeck/twoofpentacles.jpeg",
+    "image": "/tarotdeck/twoofpentacles.jpeg",
   },
   {
     "name": "Three of Pentacles",
-    "description"::
+    "description":
       "The 'Three of Pentacles' encourages teamwork in IELTS, collaborating with tutors for skill improvement.",
-    "translation"::
+    "translation":
       "‘Pentacles 三’卡片鼓励雅思中的团队合作，与导师协作提升技能。",
-    "image":: "/tarotdeck/threeofpentacles.jpeg",
+    "image": "/tarotdeck/threeofpentacles.jpeg",
   },
   {
     "name": "Four of Pentacles",
-    "description"::
+    "description":
       "The 'Four of Pentacles' advises securing your IELTS progress with consistent review sessions.",
-    "translation"::
+    "translation":
       "‘Pentacles 四’卡片建议通过一致复习巩固雅思进步。",
-    "image":: "/tarotdeck/fourofpentacles.jpeg",
+    "image": "/tarotdeck/fourofpentacles.jpeg",
   },
   {
     "name": "Five of Pentacles",
-    "description"::
+    "description":
       "The 'Five of Pentacles' suggests overcoming IELTS struggles with support from peers or resources.",
-    "translation"::
+    "translation":
       "‘Pentacles 五’卡片建议克服雅思困难，借助同伴或资源支持。",
-    "image":: "/tarotdeck/fiveofpentacles.jpeg",
+    "image": "/tarotdeck/fiveofpentacles.jpeg",
   },
   {
     "name": "Six of Pentacles",
-    "description"::
+    "description":
       "The 'Six of Pentacles' encourages sharing IELTS knowledge, benefiting from mutual learning.",
-    "translation"::
+    "translation":
       "‘Pentacles 六’卡片鼓励分享雅思知识，从互助学习中受益。",
-    "image":: "/tarotdeck/sixofpentacles.jpeg",
+    "image": "/tarotdeck/sixofpentacles.jpeg",
   },
   {
     "name": "Seven of Pentacles",
-    "description"::
+    "description":
       "The 'Seven of Pentacles' advises patience in IELTS, trusting that effort will yield results over time.",
-    "translation"::
+    "translation":
       "‘Pentacles 七’卡片建议雅思中保持耐心，相信努力将随时间带来成果。",
-    "image":: "/tarotdeck/sevenofpentacles.jpeg",
+    "image": "/tarotdeck/sevenofpentacles.jpeg",
   },
   {
     "name": "Eight of Pentacles",
-    "description"::
+    "description":
       "The 'Eight of Pentacles' encourages dedicated practice in IELTS to master key skills.",
-    "translation"::
+    "translation":
       "‘Pentacles 八’卡片鼓励在雅思中投入练习，掌握关键技能。",
-    "image":: "/tarotdeck/eightofpentacles.jpeg",
+    "image": "/tarotdeck/eightofpentacles.jpeg",
   },
   {
     "name": "Nine of Pentacles",
-    "description"::
+    "description":
       "The 'Nine of Pentacles' predicts self-reliance in IELTS, achieving goals through personal effort.",
-    "translation"::
+    "translation":
       "‘Pentacles 九’卡片预示雅思中的自力更生，通过个人努力实现目标。",
-    "image":: "/tarotdeck/nineofpentacles.jpeg",
+    "image": "/tarotdeck/nineofpentacles.jpeg",
   },
   {
     "name": "Ten of Pentacles",
-    "description"::
+    "description":
       "The 'Ten of Pentacles' signifies long-term IELTS success, building a strong language foundation.",
-    "translation"::
+    "translation":
       "‘Pentacles 十’卡片象征着雅思的长期成功，打造坚实的语言基础。",
-    "image":: "/tarotdeck/tenofpentacles.jpeg",
+    "image": "/tarotdeck/tenofpentacles.jpeg",
   },
   {
     "name": "Page of Pentacles",
-    "description"::
+    "description":
       "The 'Page of Pentacles' suggests exploring new IELTS resources with enthusiasm.",
-    "translation"::
+    "translation":
       "‘Pentacles 侍从’卡片建议热情探索新的雅思资源。",
-    "image":: "/tarotdeck/pageofpentacles.jpeg",
+    "image": "/tarotdeck/pageofpentacles.jpeg",
   },
   {
     "name": "Knight of Pentacles",
-    "description"::
+    "description":
       "The 'Knight of Pentacles' advises steady IELTS progress through consistent study habits.",
-    "translation"::
+    "translation":
       "‘Pentacles 骑士’卡片建议通过一致的学习习惯实现雅思稳步进步。",
-    "image":: "/tarotdeck/knightofpentacles.jpeg",
+    "image": "/tarotdeck/knightofpentacles.jpeg",
   },
   {
     "name": "Queen of Pentacles",
-    "description"::
+    "description":
       "The 'Queen of Pentacles' encourages nurturing IELTS skills with practical techniques.",
-    "translation"::
+    "translation":
       "‘Pentacles 女王’卡片鼓励以实用技巧培养雅思技能。",
-    "image":: "/tarotdeck/queenofpentacles.jpeg",
+    "image": "/tarotdeck/queenofpentacles.jpeg",
   },
   {
     "name": "King of Pentacles",
-    "description"::
+    "description":
       "The 'King of Pentacles' predicts mastery in IELTS through disciplined study.",
-    "translation"::
+    "translation":
       "‘Pentacles 国王’卡片预示通过纪律性学习掌握雅思。",
-    "image":: "/tarotdeck/kingofpentacles.jpeg",
+    "image": "/tarotdeck/kingofpentacles.jpeg",
   },
   {
     "name": "Ace of Swords",
-    "description"::
+    "description":
       "The 'Ace of Swords' signifies clarity in IELTS, using sharp analysis to improve weak areas.",
-    "translation"::
+    "translation":
       "‘宝剑Ace’卡片象征雅思中的清晰度，运用敏锐分析改进薄弱环节。",
-    "image":: "/tarotdeck/aceofswords.jpeg",
+    "image": "/tarotdeck/aceofswords.jpeg",
   },
   {
     "name": "Two of Swords",
-    "description"::
+    "description":
       "The 'Two of Swords' suggests resolving IELTS dilemmas with balanced decision-making.",
-    "translation"::
+    "translation":
       "‘宝剑二’卡片建议通过平衡决策解决雅思困境。",
-    "image":: "/tarotdeck/twoofswords.jpeg",
+    "image": "/tarotdeck/twoofswords.jpeg",
   },
   {
     "name": "Three of Swords",
-    "description"::
+    "description":
       "The 'Three of Swords' advises healing from IELTS discouragement with renewed effort.",
-    "translation"::
+    "translation":
       "‘宝剑三’卡片建议从雅思挫败中恢复，投入新的努力。",
-    "image":: "/tarotdeck/threeofswords.jpeg",
+    "image": "/tarotdeck/threeofswords.jpeg",
   },
   {
     "name": "Four of Swords",
-    "description"::
+    "description":
       "The 'Four of Swords' recommends rest to recharge for IELTS challenges.",
-    "translation"::
+    "translation":
       "‘宝剑四’卡片推荐休息以恢复精力，应对雅思挑战。",
-    "image":: "/tarotdeck/fourofswords.jpeg",
+    "image": "/tarotdeck/fourofswords.jpeg",
   },
   {
     "name": "Five of Swords",
-    "description"::
+    "description":
       "The 'Five of Swords' warns against unhealthy IELTS competition, focusing on self-improvement.",
-    "translation"::
+    "translation":
       "‘宝剑五’卡片警告避免不健康的雅思竞争，专注于自我提升。",
-    "image":: "/tarotdeck/fiveofswords.jpeg",
+    "image": "/tarotdeck/fiveofswords.jpeg",
   },
   {
     "name": "Six of Swords",
-    "description"::
+    "description":
       "The 'Six of Swords' suggests moving past IELTS difficulties toward better understanding.",
-    "translation"::
+    "translation":
       "‘宝剑六’卡片建议从雅思困难中前进，走向更好的理解。",
-    "image":: "/tarotdeck/sixof swords.jpeg",
+    "image": "/tarotdeck/sixof swords.jpeg",
   },
   {
     "name": "Seven of Swords",
-    "description"::
+    "description":
       "The 'Seven of Swords' advises caution in IELTS, avoiding shortcuts for true progress.",
-    "translation"::
+    "translation":
       "‘宝剑七’卡片建议雅思中保持谨慎，避免捷径以获得真实进步。",
-    "image":: "/tarotdeck/sevenofswords.jpeg",
+    "image": "/tarotdeck/sevenofswords.jpeg",
   },
   {
     "name": "Eight of Swords",
-    "description"::
+    "description":
       "The 'Eight of Swords' encourages breaking free from IELTS self-doubt with confidence.",
-    "translation"::
+    "translation":
       "‘宝剑八’卡片鼓励从雅思自我怀疑中解脱，展现信心。",
-    "image":: "/tarotdeck/eightofswords.jpeg",
+    "image": "/tarotdeck/eightofswords.jpeg",
   },
   {
     "name": "Nine of Swords",
-    "description"::
+    "description":
       "The 'Nine of Swords' suggests managing IELTS anxiety with relaxation techniques.",
-    "translation"::
+    "translation":
       "‘宝剑九’卡片建议通过放松技巧管理雅思焦虑。",
-    "image":: "/tarotdeck/nineofswords.jpeg",
+    "image": "/tarotdeck/nineofswords.jpeg",
   },
   {
     "name": "Ten of Swords",
-    "description"::
+    "description":
       "The 'Ten of Swords' indicates overcoming a tough IELTS phase with new strategies.",
-    "translation"::
+    "translation":
       "‘宝剑十’卡片表明通过新策略克服雅思艰难阶段。",
-    "image":: "/tarotdeck/tenofswords.jpeg",
+    "image": "/tarotdeck/tenofswords.jpeg",
   },
   {
     "name": "Page of Swords",
-    "description"::
+    "description":
       "The 'Page of Swords' encourages curiosity in IELTS, exploring new topics actively.",
-    "translation"::
+    "translation":
       "‘宝剑侍从’卡片鼓励雅思中的好奇心，积极探索新主题。",
-    "image":: "/tarotdeck/pageofswords.jpeg",
+    "image": "/tarotdeck/pageofswords.jpeg",
   },
   {
     "name": "Knight of Swords",
-    "description"::
+    "description":
       "The 'Knight of Swords' suggests tackling IELTS with bold study plans.",
-    "translation"::
+    "translation":
       "‘宝剑骑士’卡片建议以大胆学习计划应对雅思。",
-    "image":: "/tarotdeck/knightofswords.jpeg",
+    "image": "/tarotdeck/knightofswords.jpeg",
   },
   {
     "name": "Queen of Swords",
-    "description"::
+    "description":
       "The 'Queen of Swords' advises clear thinking in IELTS, cutting through confusion.",
-    "translation"::
+    "translation":
       "‘宝剑女王’卡片建议雅思中保持清晰思维，拨开困惑。",
-    "image":: "/tarotdeck/queenofswords.jpeg",
+    "image": "/tarotdeck/queenofswords.jpeg",
   },
   {
     "name": "King of Swords",
-    "description"::
+    "description":
       "The 'King of Swords' predicts logical mastery of IELTS through structured study.",
-    "translation"::
+    "translation":
       "‘宝剑国王’卡片预示通过结构化学习逻辑掌握雅思。",
-    "image":: "/tarotdeck/kingofswords.jpeg",
+    "image": "/tarotdeck/kingofswords.jpeg",
   },
   {
     "name": "Ace of Wands",
-    "description"::
+    "description":
       "The 'Ace of Wands' ignites passion for IELTS, inspiring new learning projects.",
-    "translation"::
+    "translation":
       "‘权杖Ace’卡片点燃对雅思的热情，激发新的学习项目。",
-    "image":: "/tarotdeck/aceofwands.jpeg",
+    "image": "/tarotdeck/aceofwands.jpeg",
   },
   {
     "name": "Two of Wands",
-    "description"::
+    "description":
       "The 'Two of Wands' suggests planning your IELTS future with clear objectives.",
-    "translation"::
+    "translation":
       "‘权杖二’卡片建议为雅思未来制定清晰目标。",
-    "image":: "/tarotdeck/twoofwands.jpeg",
+    "image": "/tarotdeck/twoofwands.jpeg",
   },
   {
     "name": "Three of Wands",
-    "description"::
+    "description":
       "The 'Three of Wands' encourages expanding IELTS skills with diverse practice.",
-    "translation"::
+    "translation":
       "‘权杖三’卡片鼓励通过多样练习扩展雅思技能。",
-    "image":: "/tarotdeck/threeofwands.jpeg",
+    "image": "/tarotdeck/threeofwands.jpeg",
   },
   {
     "name": "Four of Wands",
-    "description"::
+    "description":
       "The 'Four of Wands' celebrates IELTS milestones with a stable study base.",
-    "translation"::
+    "translation":
       "‘权杖四’卡片庆祝雅思里程碑，建立稳定的学习基础。",
-    "image":: "/tarotdeck/fourofwands.jpeg",
+    "image": "/tarotdeck/fourofwands.jpeg",
   },
   {
     "name": "Five of Wands",
-    "description"::
+    "description":
       "The 'Five of Wands' suggests overcoming IELTS competition with unique strategies.",
-    "translation"::
+    "translation":
       "‘权杖五’卡片建议通过独特策略克服雅思竞争。",
-    "image":: "/tarotdeck/fiveofwands.jpeg",
+    "image": "/tarotdeck/fiveofwands.jpeg",
   },
   {
     "name": "Six of Wands",
-    "description"::
+    "description":
       "The 'Six of Wands' predicts recognition for IELTS achievements.",
-    "translation"::
+    "translation":
       "‘权杖六’卡片预示雅思成就获得认可。",
-    "image":: "/tarotdeck/sixofwands.jpeg",
+    "image": "/tarotdeck/sixofwands.jpeg",
   },
   {
     "name": "Seven of Wands",
-    "description"::
+    "description":
       "The 'Seven of Wands' advises defending your IELTS progress against distractions.",
-    "translation"::
+    "translation":
       "‘权杖七’卡片建议抵御分心，捍卫雅思进步。",
-    "image":: "/tarotdeck/sevenofwands.jpeg",
+    "image": "/tarotdeck/sevenofwands.jpeg",
   },
   {
     "name": "Eight of Wands",
-    "description"::
+    "description":
       "The 'Eight of Wands' suggests rapid IELTS progress with focused effort.",
-    "translation"::
+    "translation":
       "‘权杖八’卡片建议通过专注努力实现雅思快速进步。",
-    "image":: "/tarotdeck/eightofwands.jpeg",
+    "image": "/tarotdeck/eightofwands.jpeg",
   },
   {
     "name": "Nine of Wands",
-    "description"::
+    "description":
       "The 'Nine of Wands' encourages perseverance in IELTS despite fatigue.",
-    "translation"::
+    "translation":
       "‘权杖九’卡片鼓励在疲惫中坚持雅思学习。",
-    "image":: "/tarotdeck/nineofwands.jpeg",
+    "image": "/tarotdeck/nineofwands.jpeg",
   },
   {
     "name": "Ten of Wands",
-    "description"::
+    "description":
       "The 'Ten of Wands' suggests lightening your IELTS load with prioritized tasks.",
-    "translation"::
+    "translation":
       "‘权杖十’卡片建议通过优先任务减轻雅思负担。",
-    "image":: "/tarotdeck/tenofwands.jpeg",
+    "image": "/tarotdeck/tenofwands.jpeg",
   },
   {
     "name": "Page of Wands",
-    "description"::
+    "description":
       "The 'Page of Wands' inspires enthusiasm for IELTS with new study ideas.",
-    "translation"::
+    "translation":
       "‘权杖侍从’卡片激发对雅思的新学习想法的热情。",
-    "image":: "/tarotdeck/pageofwands.jpeg",
+    "image": "/tarotdeck/pageofwands.jpeg",
   },
   {
     "name": "Knight of Wands",
-    "description"::
+    "description":
       "The 'Knight of Wands' suggests energetic IELTS pursuit with bold goals.",
-    "translation"::
+    "translation":
       "‘权杖骑士’卡片建议以大胆目标充满活力地追求雅思。",
-    "image":: "/tarotdeck/knightofwands.jpeg",
+    "image": "/tarotdeck/knightofwands.jpeg",
   },
   {
     "name": "Queen of Wands",
-    "description"::
+    "description":
       "The 'Queen of Wands' encourages confidence in IELTS with passionate study.",
-    "translation"::
+    "translation":
       "‘权杖女王’卡片鼓励以热情学习增强雅思信心。",
-    "image":: "/tarotdeck/queenofwands.jpeg",
+    "image": "/tarotdeck/queenofwands.jpeg",
   },
   {
     "name": "King of Wands",
-    "description"::
+    "description":
       "The 'King of Wands' predicts leadership in IELTS through visionary study plans.",
-    "translation"::
+    "translation":
       "‘权杖国王’卡片预示通过富有远见的学习计划领导雅思。",
-    "image":: "/tarotdeck/kingofwands.jpeg",
+    "image": "/tarotdeck/kingofwands.jpeg",
   },
 ]
