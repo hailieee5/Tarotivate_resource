@@ -13,7 +13,7 @@ router.get('/ielts', (req, res) => {
       id: randomSentence.id,
       text: randomSentence.text,
       translation: randomSentence.translation || "暂无翻译",
-      audio: `https://tarotivate-resource.vercel.app/${randomSentence.audio}`, // 添加音频 URL 前缀
+      audio: `https://tarotivate-resource.vercel.app/audio${randomSentence.audio}`, // 添加音频 URL 前缀
     },
     status: "success",
     timestamp: new Date().toISOString(),
