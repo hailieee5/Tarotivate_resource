@@ -5,10 +5,7 @@ const fs = require("fs").promises;
 // 加载 tarot 数据（位于 routes/ 目录下）
 async function loadTarotData() {
   try {
-    const filePath = "./routes/tarotCards.json"; // 显式使用 ./ 前缀
-    console.log("Attempting to read file:", filePath); // 调试输出
-    const data = await fs.readFile(filePath, "utf8");
-    return JSON.parse(data);
+    return require("./tarotCards.json");
   } catch (error) {
     console.error("Error loading tarot data:", error.stack);
     throw error;
