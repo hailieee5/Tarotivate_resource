@@ -12,7 +12,7 @@ async function loadTarotData() {
 router.get("/", async (req, res) => {
   try {
     const tarotData = await loadTarotData();
-    res.json(tarotCards);
+    res.json(tarotData);
   } catch (error) {
     res.status(500).json({ message: "Failed to load tarot cards" });
   }
