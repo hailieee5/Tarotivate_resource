@@ -4,8 +4,15 @@ const fs = require("fs").promises;
 
 // 加载 tarot 数据（位于 routes/ 目录下）
 async function loadTarotData() {
-  const data = await fs.readFile("tarotCards.json", "utf8"); // 相对路径，从当前目录读取
-  return JSON.parse(data); // 解析为 JSON 对象
+  try {
+    const filePath = "./routes/tarotCards.json"; // 显式使用 ./ 前缀
+    console.log("Attempting to read file:", filePath); // 调试输出
+    const data = await fs.readFile(filePath, "utf8");
+    return JSON.parse(data);
+  } catch (error) {
+    console.error("Error loading tarot data:", error.stack);
+    throw error;
+  }
 }
 
 // 定义 '/cards' 端点以获取所有塔罗牌
@@ -14,7 +21,7 @@ router.get("/", async (req, res) => {
     const tarotData = await loadTarotData();
     res.json(tarotData);
   } catch (error) {
-    res.status(500).json({ message: "Failed to load tarot cards" });
+    res.status(500).json({ message: "Failed to load tarot cards", error: error.message });
   }
 });
 
@@ -36,9 +43,11 @@ router.get("/onecard", async (req, res) => {
       timestamp: new Date().toISOString(),
     });
   } catch (error) {
+    console.error("Error in /onecard:", error.stack); // 输出完整错误堆栈
     res.status(500).json({
       status: "error",
       message: "Failed to fetch card data",
+      error: error.message, // 返回错误详情给客户端
       timestamp: new Date().toISOString(),
     });
   }
