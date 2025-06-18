@@ -41,6 +41,40 @@ app.get('/audio/:id.m4a', (req, res) => {
   }
 });
 
+//618更新组合塔罗牌和雅思内容的端点
+app.get('/cardandSentence', async (req, res) => {
+  try {
+    // 获取随机塔罗牌
+    const tarotResponse = await new Promise((resolve, reject) => {
+      cardRoutes.stack[1].handle({ method: 'GET', url: '/cards/onecard' }, {
+        json: (data) => resolve(data),
+        status: (code) => reject(new Error(`HTTP ${code}`)),
+      }, () => {});
+    });
+
+    // 获取随机雅思内容
+    const ieltsResponse = await new Promise((resolve, reject) => {
+      ieltsRoutes.stack[0].handle({ method: 'GET', url: '/api/ielts' }, {
+        json: (data) => resolve(data),
+        status: (code) => reject(new Error(`HTTP ${code}`)),
+      }, () => {});
+    });
+
+    res.json({
+      ...tarotResponse,
+      ...ieltsResponse,
+      status: "success",
+      timestamp: new Date().toISOString(),
+    });
+  } catch (error) {
+    res.status(500).json({
+      status: "error",
+      message: "Failed to fetch card and sentence data",
+      timestamp: new Date().toISOString(),
+    });
+  }
+});
+
 // 其他路由
 app.use("/cards", cardRoutes);
 app.use("/api", ieltsRoutes);
